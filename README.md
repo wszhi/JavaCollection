@@ -23,3 +23,8 @@
 
 ## 输出规范
 + 完成实现，使所有测试可以完全通过
+
+##tips
+issue:unmappable character for encoding ASCII
+
+export JAVA_TOOL_OPTIONS=-Dfile.encoding=UTF8
